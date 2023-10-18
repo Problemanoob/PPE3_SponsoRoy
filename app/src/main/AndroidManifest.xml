@@ -13,29 +13,4 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="32" />
 
-    <ImageView
-        android:layout_width="323dp"
-        android:layout_height="111dp"
-        android:src="@drawable/Logo"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="6dp" />
-
-
-    <ImageView
-        android:layout_width="428dp"
-        android:layout_height="1169dp"
-        android:src="@drawable/bg"
-        tools:layout_editor_absoluteX="-9dp"
-        tools:layout_editor_absoluteY="-145dp" />
-
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="244dp"
-        android:layout_height="71dp"
-        android:text="Envoyer un Sponsor"
-        tools:layout_editor_absoluteX="83dp"
-        tools:layout_editor_absoluteY="605dp" />
-
-
 </manifest>
