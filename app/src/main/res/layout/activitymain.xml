@@ -41,7 +41,6 @@
         android:text="Produits"
         tools:layout_editor_absoluteX="83dp"
         tools:layout_editor_absoluteY="425dp" />
-    /*Jouj*/
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
